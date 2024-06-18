@@ -1,1 +1,0 @@
-##INFO=<ID=EBR,Number=.,Type=Float,Description="Empirical base-level recall (0-1) calculated by Marin 2021, i.e. the proportion of isolates where Illumina WGS confidently and correctly agreed with the PacBio defined ground truth">
