@@ -1,0 +1,664 @@
+1849	C	T	coscolla2021	6.2.2	L622	L622	1849	intergenic_region	C	T	NA	
+11846	C	G	coscolla2021	5.1.1	L511	L511	11846	intergenic_region	C	G	NA	
+13529	G	A	coscolla2021	5.1.3	L513	L513	13529	Rv0010c_Rv0010c	G	A	synonymous_variant	p.Thr10Thr
+22807	G	T	coscolla2021	5.2	L52	L52	22807	pstP_Rv0018c	G	T	synonymous_variant	p.Arg125Arg
+24663	C	G	coscolla2021	5.1.5	L515	L515	24663	fhaA_Rv0020c	C	G	missense_variant	p.Arg261Pro
+27535	A	G	coscolla2021	5.1.5	L515	L515	27535	intergenic_region	A	G	NA	
+30475	G	A	coscolla2021	5.2	L52	L52	30475	Rv0026_Rv0026	G	A	missense_variant	p.Ala252Thr
+32047	C	T	coscolla2021	6.1.3	L613	L613	32047	intergenic_region	C	T	NA	
+32597	C	T	coscolla2021	5.1.5	L515	L515	32597	Rv0029_Rv0029	C	T	missense_variant	p.Pro181Ser
+33938	G	A	coscolla2021	6.2.2	L622	L622	33938	intergenic_region	G	A	NA	
+34063	C	T	coscolla2021	5.1.1	L511	L511	34063	intergenic_region	C	T	NA	
+47099	A	T	coscolla2021	5.3	L53	L53	47099	Rv0042c_Rv0042c	A	T	missense_variant	p.Leu37Ile
+47978	C	T	coscolla2021	6.2.2	L622	L622	47978	Rv0043c_Rv0043c	C	T	synonymous_variant	p.Leu41Leu
+57162	C	T	coscolla2021	5.1.5	L515	L515	57162	Rv0051_Rv0051	C	T	synonymous_variant	p.Arg489Arg
+61799	C	T	coscolla2021	5.1.5	L515	L515	61799	dnaB_Rv0058	C	T	synonymous_variant	p.Ala468Ala
+65432	C	A	coscolla2021	5.1.1	L511	L511	65432	intergenic_region	C	A	NA	
+71499	G	T	coscolla2021	5.1.5	L515	L515	71499	Rv0064_Rv0064	G	T	synonymous_variant	p.Leu960Leu
+71636	C	T	coscolla2021	5.1.2	L512	L512	71636	vapB1_Rv0064A	C	T	synonymous_variant	p.Thr16Thr
+78139	G	C	coscolla2021	5.1.1	L511	L511	78139	glyA2_Rv0070c	G	C	missense_variant	p.Ser253Cys
+81241	G	A	coscolla2021	6.2.3	L623	L623	81241	Rv0072_Rv0072	G	A	synonymous_variant	p.Glu206Glu
+86773	C	A	coscolla2021	5.2	L52	L52	86773	Rv0078_Rv0078	C	A	synonymous_variant	p.Ala82Ala
+94019	G	C	coscolla2021	5.1.5	L515	L515	94019	hycQ_Rv0086	G	C	synonymous_variant	p.Gly23Gly
+96078	T	G	coscolla2021	5.3	L53	L53	96078	hycE_Rv0087	T	G	missense_variant	p.Leu222Arg
+97414	G	A	coscolla2021	6.3.2	L632	L632	97414	Rv0088_Rv0088	G	A	missense_variant	p.Arg163Lys
+103676	G	A	coscolla2021	6.3.1	L631	L631	103676	intergenic_region	G	A	NA	
+112397	C	T	coscolla2021	5.2	L52	L52	112397	nrp_Rv0101	C	T	synonymous_variant	p.Arg799Arg
+112490	C	T	coscolla2021	5.1.5	L515	L515	112490	nrp_Rv0101	C	T	synonymous_variant	p.Gly830Gly
+117392	G	C	coscolla2021	5.3	L53	L53	117392	nrp_Rv0101	G	C	missense_variant	p.Arg2464Ser
+122668	G	A	coscolla2021	5.3	L53	L53	122668	Rv0104_Rv0104	G	A	missense_variant	p.Val118Met
+123707	G	A	coscolla2021	6.3.2	L632	L632	123707	Rv0104_Rv0104	G	A	stop_gained	p.Trp464*
+130358	C	T	coscolla2021	6.1.2	L612	L612	130358	ctpI_Rv0107c	C	T	missense_variant	p.Gly62Arg
+136351	G	A	coscolla2021	6.2.2	L622	L622	136351	gca_Rv0112	G	A	synonymous_variant	p.Leu21Leu
+136732	C	T	coscolla2021	6.1.2	L612	L612	136732	gca_Rv0112	C	T	synonymous_variant	p.Ala148Ala
+145695	G	T	coscolla2021	5.3	L53	L53	145695	fusA2_Rv0120c	G	T	missense_variant	p.Arg693Ser
+151029	G	A	coscolla2021	6.3.2	L632	L632	151029	intergenic_region	G	A	NA	
+155183	C	A	coscolla2021	6.1.1	L611	L611	155183	mak_Rv0127	C	A	synonymous_variant	p.Arg318Arg
+171178	A	G	coscolla2021	6.3.2	L632	L632	171178	intergenic_region	A	G	NA	
+175088	G	A	coscolla2021	5.1.5	L515	L515	175088	Rv0148_Rv0148	G	A	missense_variant	p.Ala86Thr
+176742	C	T	coscolla2021	6.3.1	L631	L631	176742	Rv0150c_Rv0150c	C	T	missense_variant	p.Ala71Thr
+184184	C	T	coscolla2021	5.2	L52	L52	184184	pntAa_Rv0155	C	T	missense_variant	p.Thr188Met
+187086	C	T	coscolla2021	6.1.1	L611	L611	187086	Rv0158_Rv0158	C	T	missense_variant	p.Pro101Leu
+191218	G	C	coscolla2021	5.1.3	L513	L513	191218	Rv0161_Rv0161	G	C	synonymous_variant	p.Leu204Leu
+191398	C	G	coscolla2021	5.1.5	L515	L515	191398	Rv0161_Rv0161	C	G	synonymous_variant	p.Pro264Pro
+195296	A	G	coscolla2021	5.1.5	L515	L515	195296	fadD5_Rv0166	A	G	missense_variant	p.Ile102Val
+197718	A	C	coscolla2021	5.3	L53	L53	197718	yrbE1B_Rv0168	A	C	missense_variant	p.Gln20Pro
+203214	T	C	coscolla2021	6.1.3	L613	L613	203214	mce1D_Rv0172	T	C	missense_variant	p.Ser247Pro
+211685	G	T	coscolla2021	5.3	L53	L53	211685	Rv0180c_Rv0180c	G	T	missense_variant	p.Ala189Glu
+212512	C	A	coscolla2021	6.3.2	L632	L632	212512	Rv0181c_Rv0181c	C	A	missense_variant	p.Ser167Ile
+221767	T	C	coscolla2021	5.1.4	L514	L514	221767	intergenic_region	T	C	NA	
+225657	G	A	coscolla2021	5.3	L53	L53	225657	Rv0193c_Rv0193c	G	A	synonymous_variant	p.Ala305Ala
+227976	G	A	coscolla2021	6.1.1	L611	L611	227976	Rv0194_Rv0194	G	A	missense_variant	p.Gly367Ser
+231261	G	A	coscolla2021	5.1.3	L513	L513	231261	Rv0195_Rv0195	G	A	synonymous_variant	p.Leu121Leu
+240754	T	G	coscolla2021	5.1.3	L513	L513	240754	mmpL11_Rv0202c	T	G	missense_variant	p.Asn180Thr
+241119	C	T	coscolla2021	6.2.3	L623	L623	241119	mmpL11_Rv0202c	C	T	synonymous_variant	p.Ala58Ala
+242138	G	A	coscolla2021	5.1.1	L511	L511	242138	Rv0204c_Rv0204c	G	A	synonymous_variant	p.Thr359Thr
+260802	C	A	coscolla2021	5.2	L52	L52	260802	lipW_Rv0217c	C	A	synonymous_variant	p.Leu10Leu
+261628	G	C	coscolla2021	5.3	L53	L53	261628	Rv0218_Rv0218	G	C	synonymous_variant	p.Val235Val
+272315	T	C	coscolla2021	5.3	L53	L53	272315	Rv0227c_Rv0227c	T	C	synonymous_variant	p.Ala175Ala
+276363	C	T	coscolla2021	6.1.1	L611	L611	276363	fadE4_Rv0231	C	T	synonymous_variant	p.Ala102Ala
+277855	G	A	coscolla2021	5.2	L52	L52	277855	intergenic_region	G	A	NA	
+279803	G	T	coscolla2021	5.1.1	L511	L511	279803	gabD1_Rv0234c	G	T	synonymous_variant	p.Ser446Ser
+285330	G	A	coscolla2021	6.3.3	L633	L633	285330	aftD_Rv0236c	G	A	synonymous_variant	p.Leu508Leu
+292598	C	T	coscolla2021	5.1.5	L515	L515	292598	fadA2_Rv0243	C	T	missense_variant	p.Thr143Ile
+294052	C	A	coscolla2021	5.3	L53	L53	294052	fadE5_Rv0244c	C	A	missense_variant	p.Val528Leu
+294775	G	A	coscolla2021	6.1.1	L611	L611	294775	fadE5_Rv0244c	G	A	missense_variant	p.His287Tyr
+294935	G	A	coscolla2021	6.2.3	L623	L623	294935	fadE5_Rv0244c	G	A	synonymous_variant	p.Pro233Pro
+295324	T	C	coscolla2021	5.3	L53	L53	295324	fadE5_Rv0244c	T	C	missense_variant	p.Met104Val
+302010	G	A	coscolla2021	5.3	L53	L53	302010	Rv0250c_Rv0250c	G	A	missense_variant	p.Leu7Phe
+302191	G	T	coscolla2021	5.1.5	L515	L515	302191	hsp_Rv0251c	G	T	synonymous_variant	p.Arg154Arg
+303111	G	A	coscolla2021	6.3.1	L631	L631	303111	nirB_Rv0252	G	A	synonymous_variant	p.Gln82Gln
+305707	C	T	coscolla2021	6.2.3	L623	L623	305707	nirD_Rv0253	C	T	synonymous_variant	p.Leu85Leu
+311380	G	C	coscolla2021	6.2.2	L622	L622	311380	Rv0259c_Rv0259c	G	C	synonymous_variant	p.Pro46Pro
+315610	C	A	coscolla2021	5.2	L52	L52	315610	Rv0263c_Rv0263c	C	A	missense_variant	p.Ala53Ser
+325185	G	A	coscolla2021	6.3.3	L633	L633	325185	fadD2_Rv0270	G	A	missense_variant	p.Ala207Thr
+330257	G	T	coscolla2021	6.1.2	L612	L612	330257	Rv0273c_Rv0273c	G	T	synonymous_variant	p.Val23Val
+354234	G	A	coscolla2021	5.2	L52	L52	354234	eccD3_Rv0290	G	A	synonymous_variant	p.Leu384Leu
+356645	G	A	coscolla2021	5.1.1	L511	L511	356645	eccE3_Rv0292	G	A	missense_variant	p.Ala256Thr
+363375	C	T	coscolla2021	6.2.3	L623	L623	363375	Rv0298_Rv0298	C	T	synonymous_variant	p.Leu42Leu
+363781	C	T	coscolla2021	5.1.2	L512	L512	363781	intergenic_region	C	T	NA	
+364496	C	T	coscolla2021	5.1.1	L511	L511	364496	intergenic_region	C	T	NA	
+390576	G	C	coscolla2021	5.1.4	L514	L514	390576	udgA_Rv0322	G	C	synonymous_variant	p.Pro439Pro
+402427	T	C	coscolla2021	5.1.5	L515	L515	402427	aspC_Rv0337c	T	C	missense_variant	p.Ile246Val
+417288	C	T	coscolla2021	6.2.2	L622	L622	417288	intergenic_region	C	T	NA	
+419744	A	C	coscolla2021	6.1.1	L611	L611	419744	intergenic_region	A	C	NA	
+436203	C	G	coscolla2021	6.2.2	L622	L622	436203	purA_Rv0357c	C	G	synonymous_variant	p.Ala189Ala
+458048	A	C	coscolla2021	6.3.2	L632	L632	458048	pyrE_Rv0382c	A	C	synonymous_variant	p.Val111Val
+461439	G	A	coscolla2021	6.3.1	L631	L631	461439	clpB_Rv0384c	G	A	synonymous_variant	p.Arg188Arg
+463503	G	A	coscolla2021	6.2.2	L622	L622	463503	Rv0386_Rv0386	G	A	missense_variant	p.Met31Ile
+465562	C	T	coscolla2021	6.3.2	L632	L632	465562	Rv0386_Rv0386	C	T	missense_variant	p.Pro718Ser
+472224	T	A	coscolla2021	6.2.2	L622	L622	472224	ndhA_Rv0392c	T	A	missense_variant	p.Lys139Met
+485633	C	G	coscolla2021	6.2.2	L622	L622	485633	fadD30_Rv0404	C	G	missense_variant	p.Pro553Ala
+488689	C	T	coscolla2021	6.3.2	L632	L632	488689	pks6_Rv0405	C	T	stop_gained	p.Gln987*
+490376	C	T	coscolla2021	6.3.2	L632	L632	490376	Rv0406c_Rv0406c	C	T	synonymous_variant	p.Glu110Glu
+492769	G	T	coscolla2021	5.1.5	L515	L515	492769	pta_Rv0408	G	T	synonymous_variant	p.Thr328Thr
+504324	G	C	coscolla2021	5.2	L52	L52	504324	lpqL_Rv0418	G	C	missense_variant	p.Glu277Gln
+507669	G	A	coscolla2021	6.2.2	L622	L622	507669	Rv0421c_Rv0421c	G	A	synonymous_variant	p.Arg31Arg
+511350	G	A	coscolla2021	5.3	L53	L53	511350	ctpH_Rv0425c	G	A	synonymous_variant	p.Asn1324Asn
+514115	T	C	coscolla2021	6.2.3	L623	L623	514115	ctpH_Rv0425c	T	C	missense_variant	p.Thr403Ala
+541869	C	T	coscolla2021	6.2.2	L622	L622	541869	mmpS4_Rv0451c	C	T	synonymous_variant	p.Val14Val
+546878	G	A	coscolla2021	5.1.1	L511	L511	546878	intergenic_region	G	A	NA	
+550976	T	G	coscolla2021	5.1.2	L512	L512	550976	Rv0458_Rv0458	T	G	synonymous_variant	p.Gly434Gly
+551999	C	T	coscolla2021	6.2.2	L622	L622	551999	intergenic_region	C	T	NA	
+558289	C	A	coscolla2021	5.1.5	L515	L515	558289	icl1_Rv0467	C	A	synonymous_variant	p.Arg255Arg
+561984	C	T	coscolla2021	6.3.3	L633	L633	561984	Rv0470A_Rv0470A	C	T	missense_variant	p.Arg104His
+573264	C	T	coscolla2021	6.3.1	L631	L631	573264	Rv0484c_Rv0484c	C	T	missense_variant	p.Gly180Ser
+587305	C	T	coscolla2021	5.1.3	L513	L513	587305	Rv0496_Rv0496	C	T	synonymous_variant	p.His304His
+599577	C	T	coscolla2021	6.1.2	L612	L612	599577	mmpL2_Rv0507	C	T	synonymous_variant	p.Ile793Ile
+617988	G	T	coscolla2021	5.1.4	L514	L514	617988	ccdA_Rv0527	G	T	missense_variant	p.Val166Leu
+634575	T	C	coscolla2021	6.3.2	L632	L632	634575	menE_Rv0542c	T	C	synonymous_variant	p.Pro310Pro
+663077	G	A	coscolla2021	6.2.3	L623	L623	663077	nrdZ_Rv0570	G	A	missense_variant	p.Ala595Thr
+664343	G	C	coscolla2021	5.2	L52	L52	664343	Rv0571c_Rv0571c	G	C	missense_variant	p.Pro159Arg
+670804	G	A	coscolla2021	6.3.2	L632	L632	670804	Rv0576_Rv0576	G	A	synonymous_variant	p.Val319Val
+688748	G	A	coscolla2021	6.3.1	L631	L631	688748	Rv0590	G	A	synonymous	
+688749	G	A	coscolla2021	6.3.1	L631	L631	688749	Rv0590	G	A	misssense_variant	
+689300	G	T	coscolla2021	5.3	L53	L53	689300	mce2C_Rv0591	G	T	missense_variant	p.Gly81Val
+690951	T	G	coscolla2021	6.3.2	L632	L632	690951	mce2D_Rv0592	T	G	missense_variant	p.Ser151Ala
+706809	C	T	coscolla2021	6.2.3	L623	L623	706809	Rv0612_Rv0612	C	T	synonymous_variant	p.Asp162Asp
+708999	G	A	coscolla2021	5.3	L53	L53	708999	Rv0613c_Rv0613c	G	A	missense_variant	p.Arg173Trp
+709657	T	C	coscolla2021	5.1.4	L514	L514	709657	Rv0614_Rv0614	T	C	missense_variant	p.Leu20Pro
+715517	C	T	coscolla2021	5.1.1	L511	L511	715517	Rv0622_Rv0622	C	T	missense_variant	p.Pro50Ser
+717612	C	T	coscolla2021	6.2.2	L622	L622	717612	Rv0625c_Rv0625c	C	T	synonymous_variant	p.Leu94Leu
+720409	A	G	coscolla2021	6.2.2	L622	L622	720409	recD_Rv0629c	A	G	missense_variant	p.Trp442Arg
+721322	G	A	coscolla2021	6.3.2	L632	L632	721322	recD_Rv0629c	G	A	synonymous_variant	p.Ala137Ala
+721581	A	G	coscolla2021	5.1.2	L512	L512	721581	recD_Rv0629c	A	G	missense_variant	p.Val51Ala
+751213	T	G	coscolla2021	6.1.1	L611	L611	751213	Rv0654_Rv0654	T	G	missense_variant	p.Val405Gly
+755868	C	G	coscolla2021	6.2.2	L622	L622	755868	vapB7_Rv0662c	C	G	missense_variant	p.Lys52Asn
+767673	C	T	coscolla2021	6.3.1	L631	L631	767673	intergenic_region	C	T	NA	
+768998	G	C	coscolla2021	6.1.3	L613	L613	768998	Rv0669c_Rv0669c	G	C	missense_variant	p.Phe200Leu
+771654	A	G	coscolla2021	5.3	L53	L53	771654	fadE8_Rv0672	A	G	synonymous_variant	p.Gly57Gly
+771723	G	A	coscolla2021	6.3.2	L632	L632	771723	fadE8_Rv0672	G	A	synonymous_variant	p.Val80Val
+780175	A	C	coscolla2021	5.1.2	L512	L512	780175	Rv0680c_Rv0680c	A	C	missense_variant	p.Val81Gly
+782398	C	G	coscolla2021	5.1.1	L511	L511	782398	rpsG_Rv0683	C	G	synonymous_variant	p.Arg155Arg
+782977	A	G	coscolla2021	5.1.5	L515	L515	782977	fusA1_Rv0684	A	G	missense_variant	p.Ile165Val
+794620	C	T	coscolla2021	6.3.1	L631	L631	794620	intergenic_region	C	T	NA	
+799764	G	C	coscolla2021	6.1.3	L613	L613	799764	Rv0699_Rv0699	G	C	missense_variant	p.Ala46Pro
+800793	G	C	coscolla2021	5.3	L53	L53	800793	Intergenic_region	G	C	NA	
+809813	G	C	coscolla2021	5.1.4	L514	L514	809813	intergenic_region	G	C	NA	
+809981	G	A	coscolla2021	5.2	L52	L52	809981	Rv0713_Rv0713	G	A	synonymous_variant	p.Ala12Ala
+813467	A	G	coscolla2021	5.1.2	L512	L512	813467	rplF_Rv0719	A	G	missense_variant	p.Ile24Val
+815440	G	A	coscolla2021	6.2.2	L622	L622	815440	rplO_Rv0723	G	A	missense_variant	p.Arg84Gln
+821437	G	A	coscolla2021	5.1.1	L511	L511	821437	serA2_Rv0728c	G	A	missense_variant	p.Arg14Cys
+860034	G	A	coscolla2021	6.3.2	L632	L632	860034	cyp123_Rv0766c	G	A	synonymous_variant	p.Asp13Asp
+865006	G	A	coscolla2021	6.2.3	L623	L623	865006	purD_Rv0772	G	A	missense_variant	p.Gly141Ser
+885032	G	A	coscolla2021	6.3.1	L631	L631	885032	Rv0791c_Rv0791c	G	A	missense_variant	p.Ala270Val
+885634	G	A	coscolla2021	6.2.3	L623	L623	885634	Rv0791c_Rv0791c	G	A	synonymous_variant	p.Ser69Ser
+895563	G	A	coscolla2021	6.3.1	L631	L631	895563	Rv0802c_Rv0802c	G	A	synonymous_variant	p.Pro22Pro
+898137	C	T	coscolla2021	6.2.2	L622	L622	898137	Rv0804_Rv0804	C	T	synonymous_variant	p.Val19Val
+903226	C	T	coscolla2021	6.2.3	L623	L623	903226	purF_Rv0808	C	T	synonymous_variant	p.Leu372Leu
+918646	G	A	coscolla2021	6.2.1	L621	L621	918646	desA1_Rv0824c	G	A	synonymous_variant	p.His35His
+920189	G	T	coscolla2021	6.3.2	L632	L632	920189	Rv0826_Rv0826	G	T	missense_variant	p.Val186Phe
+951567	A	G	coscolla2021	6.1.3	L613	L613	951567	Rv0854_Rv0854	A	G	missense_variant	p.Ile129Val
+951568	T	C	coscolla2021	6.1.3	L613	L613	951568	Rv0854_Rv0854	T	C	missense_variant	p.Ile129Thr
+953748	G	A	coscolla2021	5.3	L53	L53	953748	dapC_Rv0858c	G	A	synonymous_variant	p.Leu391Leu
+960652	C	T	coscolla2021	6.3.1	L631	L631	960652	Rv0862c_Rv0862c	C	T	missense_variant	p.Arg654Gln
+963022	T	C	coscolla2021	5.2	L52	L52	963022	moaC2_Rv0864	T	C	synonymous_variant	p.Leu45Leu
+965798	G	A	coscolla2021	6.2.2	L622	L622	965798	intergenic_region	G	A	NA	
+980505	G	A	coscolla2021	5.1.5	L515	L515	980505	Rv0882_Rv0882	G	A	missense_variant	p.Gly94Asp
+986388	C	G	coscolla2021	6.2.3	L623	L623	986388	intergenic_region	C	G	NA	
+998007	G	A	coscolla2021	5.2	L52	L52	998007	Rv0895_Rv0895	G	A	missense_variant	p.Val76Met
+999736	T	G	coscolla2021	5.1.5	L515	L515	999736	gltA2_Rv0896	T	G	missense_variant	p.Cys89Gly
+1007461	C	G	coscolla2021	6.1.2	L612	L612	1007461	accD3_Rv0904c	C	G	synonymous_variant	p.Val240Val
+1011206	C	G	coscolla2021	5.3	L53	L53	1011206	Rv0907_Rv0907	C	G	synonymous_variant	p.Thr357Thr
+1014058	G	A	coscolla2021	5.1.2	L512	L512	1014058	ctpE_Rv0908	G	A	synonymous_variant	p.Ala776Ala
+1014722	C	T	coscolla2021	5.3	L53	L53	1014722	Rv0909_Rv0909	C	T	synonymous_variant	p.Asn14Asn
+1018173	C	T	coscolla2021	5.2	L52	L52	1018173	Rv0913c_Rv0913c	C	T	missense_variant	p.Ala185Thr
+1022501	C	T	coscolla2021	6.2.2	L622	L622	1022501	betP_Rv0917	C	T	missense_variant	p.Leu139Phe
+1030934	C	T	coscolla2021	6.1.3	L613	L613	1030934	mntH_Rv0924c	C	T	missense_variant	p.Gly311Arg
+1049905	C	T	coscolla2021	5.3	L53	L53	1049905	Rv0939_Rv0939	C	T	synonymous_variant	p.His498His
+1052950	C	T	coscolla2021	6.3.1	L631	L631	1052950	Rv0943c_Rv0943c	C	T	missense_variant	p.Gly263Ser
+1053357	T	C	coscolla2021	6.2.2	L622	L622	1053357	Rv0943c_Rv0943c	T	C	missense_variant	p.His127Arg
+1056987	A	C	coscolla2021	5.1.5	L515	L515	1056987	intergenic_region	A	C	NA	
+1059348	T	G	coscolla2021	6.1.2	L612	L612	1059348	uvrD1_Rv0949	T	G	missense_variant	p.Asp363Glu
+1064934	C	G	coscolla2021	5.1.4	L514	L514	1064934	Rv0953c_Rv0953c	C	G	missense_variant	p.Ser10Thr
+1105512	G	T	coscolla2021	5.1.5	L515	L515	1105512	Rv0988_Rv0988	G	T,A	missense_variant,missense_variant	p.Gly133Cys,p.Gly133Ser
+1105512	G	A	coscolla2021	5.1.5	L515	L515	1105512	Rv0988_Rv0988	G	T,A	missense_variant,missense_variant	p.Gly133Cys,p.Gly133Ser
+1105512	G		coscolla2021	5.1.5	L515	L515	1105512	Rv0988_Rv0988	G	T,A	missense_variant,missense_variant	p.Gly133Cys,p.Gly133Ser
+1106580	T	C	coscolla2021	5.1.5	L515	L515	1106580	grcC2_Rv0989c	T	C	missense_variant	p.Asp268Gly
+1107320	G	A	coscolla2021	5.3	L53	L53	1107320	grcC2_Rv0989c	G	A	synonymous_variant	p.Ala21Ala
+1112994	C	A	coscolla2021	5.2	L52	L52	1112994	Rv0996_Rv0996	C	A	missense_variant	p.Ala204Glu
+1115075	G	A	coscolla2021	6.3.1	L631	L631	1115075	Rv0998_Rv0998	G	A	missense_variant	p.Gly110Ser
+1120159	G	A	coscolla2021	6.2.2	L622	L622	1120159	Rv1003_Rv1003	G	A	synonymous_variant	p.Lys46Lys
+1134118	G	A	coscolla2021	6.1.2	L612	L612	1134118	rplY_Rv1015c	G	A	missense_variant	p.Pro151Ser
+1135855	G	A	coscolla2021	5.1.5	L515	L515	1135855	prsA_Rv1017c	G	A	synonymous_variant	p.Pro209Pro
+1138747	C	T	coscolla2021	6.3.2	L632	L632	1138747	Rv1019_Rv1019	C	T	missense_variant	p.Pro145Ser
+1140078	T	C	coscolla2021	6.3.1	L631	L631	1140078	mfd_Rv1020	T	C	missense_variant	p.Val371Ala
+1142543	C	G	coscolla2021	6.3.1	L631	L631	1142543	mfd_Rv1020	C	G	missense_variant	p.Gln1193Glu
+1144870	T	G	coscolla2021	5.1.5	L515	L515	1144870	eno_Rv1023	T	G	missense_variant	p.Ser103Ala
+1153214	G	A	coscolla2021	5.3	L53	L53	1153214	kdpA_Rv1029	G	A	synonymous_variant	p.Leu401Leu
+1165626	C	T	coscolla2021	5.1.2	L512	L512	1165626	intergenic_region	C	T	NA	
+1171368	A	G	coscolla2021	6.3.3	L633	L633	1171368	Rv1048c_Rv1048c	A	G	synonymous_variant	p.Asp262Asp
+1188325	G	A	coscolla2021	6.3.3	L633	L633	1188325	Rv1066_Rv1066	G	A	missense_variant	p.Val110Ile
+1193012	G	T	coscolla2021	6.2.2	L622	L622	1193012	Rv1069c_Rv1069c	G	T	missense_variant	p.Ala421Asp
+1200107	A	G	coscolla2021	6.1.3	L613	L613	1200107	Rv1075c_Rv1075c	A	G	synonymous_variant	p.Ala88Ala
+1200108	G	C	coscolla2021	6.1.3	L613	L613	1200108	Rv1075c_Rv1075c	G	C	missense_variant	p.Ala88Gly
+1201530	C	T	coscolla2021	6.1.2	L612	L612	1201530	lipU_Rv1076	C	T	missense_variant	p.Ala255Val
+1226167	C	T	coscolla2021	5.1.5	L515	L515	1226167	fum_Rv1098c	C	T	missense_variant	p.Glu467Lys
+1229123	C	G	coscolla2021	6.3.3	L633	L633	1229123	Rv1100_Rv1100	C	G	synonymous_variant	p.Thr147Thr
+1235220	G	C	coscolla2021	5.1.5	L515	L515	1235220	xseA_Rv1108c	G	C	missense_variant	p.Gln81Glu
+1241564	C	A	coscolla2021	5.2	L52	L52	1241564	intergenic_region,intergenic_region	C	A,T	NA	
+1241564	C	T	coscolla2021	5.2	L52	L52	1241564	intergenic_region,intergenic_region	C	A,T	NA	
+1241564	C		coscolla2021	5.2	L52	L52	1241564	intergenic_region,intergenic_region	C	A,T	NA	
+1242043	C	T	coscolla2021	6.3.1	L631	L631	1242043	Rv1118c_Rv1118c	C	T	stop_gained	p.Trp263*
+1249980	C	T	coscolla2021	5.1.3	L513	L513	1249980	ppdK_Rv1127c	C	T	synonymous_variant	p.Thr475Thr
+1253973	C	G	coscolla2021	6.2.2	L622	L622	1253973	Rv1129c_Rv1129c	C	G,T	missense_variant,missense_variant	p.Gly188Arg,p.Gly188Ser
+1253973	C	T	coscolla2021	6.2.2	L622	L622	1253973	Rv1129c_Rv1129c	C	G,T	missense_variant,missense_variant	p.Gly188Arg,p.Gly188Ser
+1253973	C		coscolla2021	6.2.2	L622	L622	1253973	Rv1129c_Rv1129c	C	G,T	missense_variant,missense_variant	p.Gly188Arg,p.Gly188Ser
+1264533	G	T	coscolla2021	5.1.5	L515	L515	1264533	Rv1135A	G	T	misssense_variant	
+1270331	A	C	coscolla2021	6.2.2	L622	L622	1270331	mcr_Rv1143	A	C	missense_variant	p.Glu90Asp
+1288083	C	T	coscolla2021	6.1.2	L612	L612	1288083	narG_Rv1161	C	T	synonymous_variant	p.Gly252Gly
+1301571	C	T	coscolla2021	5.1.3	L513	L513	1301571	Rv1171_Rv1171	C	T	synonymous_variant	p.Leu89Leu
+1308026	G	T	coscolla2021	5.3	L53	L53	1308026	fadH_Rv1175c	G	T	synonymous_variant	p.Thr67Thr
+1311443	C	T	coscolla2021	5.1.4	L514	L514	1311443	Rv1179c_Rv1179c	C	T	synonymous_variant	p.Ala619Ala
+1317796	C	T	coscolla2021	5.1.2	L512	L512	1317796	pks4_Rv1181	C	T	synonymous_variant	p.Leu855Leu
+1320985	C	T	coscolla2021	5.1.1	L511	L511	1320985	papA3_Rv1182	C	T	synonymous_variant	p.Arg317Arg
+1329368	C	T	coscolla2021	6.2.2	L622	L622	1329368	intergenic_region	C	T	NA	
+1343728	C	T	coscolla2021	6.2.3	L623	L623	1343728	Rv1200_Rv1200	C	T	stop_gained	p.Gln263*
+1355688	G	T	coscolla2021	6.2.2	L622	L622	1355688	intergenic_region	G	T	NA	
+1358406	C	G	coscolla2021	5.1.2	L512	L512	1358406	Rv1215c_Rv1215c	C	G	missense_variant	p.Asp347His
+1366937	G	A	coscolla2021	5.1.5	L515	L515	1366937	htrA_Rv1223	G	A	missense_variant	p.Ala355Thr
+1371187	G	A	coscolla2021	5.1.2	L512	L512	1371187	lpqX_Rv1228	G	A	missense_variant	p.Val90Ile
+1371923	C	A	coscolla2021	6.3.2	L632	L632	1371923	mrp_Rv1229c	C	A	missense_variant	p.Ala343Ser
+1375071	C	A	coscolla2021	5.1.1	L511	L511	1375071	Rv1232c_Rv1232c	C	A	synonymous_variant	p.Thr366Thr
+1380932	G	A	coscolla2021	5.2	L52	L52	1380932	sugC_Rv1238	G	A	synonymous_variant	p.Gln83Gln
+1393729	A	T	coscolla2021	5.1.1	L511	L511	1393729	Rv1249c_Rv1249c	A	T	missense_variant	p.Val85Glu
+1393782	C	T	coscolla2021	6.3.2	L632	L632	1393782	Rv1249c_Rv1249c	C	T	synonymous_variant	p.Pro67Pro
+1430203	C	T	coscolla2021	5.2	L52	L52	1430203	Rv1279_Rv1279	C	T	missense_variant	p.Pro48Ser
+1432945	C	T	coscolla2021	6.1.3	L613	L613	1432945	oppA_Rv1280c	C	T	missense_variant	p.Asp166Asn
+1434318	G	T	coscolla2021	5.1.3	L513	L513	1434318	oppD_Rv1281c	G	T	synonymous_variant	p.Ile318Ile
+1434319	A	T	coscolla2021	5.1.3	L513	L513	1434319	oppD_Rv1281c	A	T	missense_variant	p.Ile318Asn
+1435831	T	C	coscolla2021	5.2	L52	L52	1435831	oppC_Rv1282c	T	C	missense_variant	p.Ile105Val
+1436230	A	G	coscolla2021	6.1.3	L613	L613	1436230	oppB_Rv1283c	A	G	synonymous_variant	p.Ile296Ile
+1439318	C	T	coscolla2021	5.3	L53	L53	1439318	Rv1286_Rv1286	C	T	synonymous_variant	p.Leu138Leu
+1439504	C	G	coscolla2021	6.2.2	L622	L622	1439504	Rv1286_Rv1286	C	G	missense_variant	p.Pro200Ala
+1446697	G	A	coscolla2021	6.2.2	L622	L622	1446697	argS_Rv1292	G	A	missense_variant	p.Asp107Asn
+1448088	G	A	coscolla2021	5.1.1	L511	L511	1448088	lysA_Rv1293	G	A	missense_variant	p.Val21Ile
+1449011	G	A	coscolla2021	6.2.2	L622	L622	1449011	lysA_Rv1293	G	A	synonymous_variant	p.Ala328Ala
+1450463	C	T	coscolla2021	6.1.1	L611	L611	1450463	thrA_Rv1294	C	T	synonymous_variant	p.Asp363Asp
+1453896	C	A	coscolla2021	5.2	L52	L52	1453896	rho_Rv1297	C	A	missense_variant	p.Asp231Glu
+1454192	A	G	coscolla2021	6.2.1	L621	L621	1454192	rho_Rv1297	A	G	missense_variant	p.Glu330Gly
+1459257	C	T	coscolla2021	6.2.2	L622	L622	1459257	rfe_Rv1302	C	T	synonymous_variant	p.Gly321Gly
+1470109	G	A	coscolla2021	5.3	L53	L53	1470109	Rv1314c_Rv1314c	G	A	synonymous_variant	p.Ala48Ala
+1492961	G	A	coscolla2021	5.1.4	L514	L514	1492961	glgE_Rv1327c	G	A	missense_variant	p.Leu489Phe
+1498862	C	A	coscolla2021	5.1.5	L515	L515	1498862	dinG_Rv1329c	C	A	missense_variant	p.Ala110Ser
+1500080	G	A	coscolla2021	6.2.2	L622	L622	1500080	pncB1_Rv1330c	G	A	synonymous_variant	p.Ala160Ala
+1521911	G	T	coscolla2021	5.2	L52	L52	1521911	moeY_Rv1355c	G	T	missense_variant	p.His708Asn
+1526754	G	C	coscolla2021	6.3.1	L631	L631	1526754	Rv1358_Rv1358	G	C	missense_variant	p.Arg48Pro
+1532357	A	C	coscolla2021	5.2	L52	L52	1532357	Rv1360_Rv1360	A	C	missense_variant	p.Asp337Ala
+1539110	C	T	coscolla2021	5.1.5	L515	L515	1539110	Rv1366_Rv1366	C	T	missense_variant	p.Leu241Phe
+1539299	C	T	coscolla2021	6.3.3	L633	L633	1539299	Rv1366A_Rv1366A	C	T	synonymous_variant	p.His40His
+1541348	C	T	coscolla2021	6.3.1	L631	L631	1541348	lprF_Rv1368	C	T	missense_variant	p.Ala110Val
+1543874	G	T	coscolla2021	5.1.2	L512	L512	1543874	Rv1371_Rv1371	G	T	synonymous_variant	p.Pro172Pro
+1556018	C	T	coscolla2021	5.1.5	L515	L515	1556018	carA_Rv1383	C	T	synonymous_variant	p.Gly16Gly
+1556626	T	C	coscolla2021	6.2.2	L622	L622	1556626	carA_Rv1383	T	C	missense_variant	p.Ile219Thr
+1560777	G	A	coscolla2021	5.1.3	L513	L513	1560777	pyrF_Rv1385	G	A	synonymous_variant	p.Val111Val
+1571642	G	T	coscolla2021	6.3.3	L633	L633	1571642	Rv1395_Rv1395	G	T	missense_variant	p.Gly199Val
+1575095	G	C	coscolla2021	6.2.2	L622	L622	1575095	nlhH_Rv1399c	G	C	missense_variant	p.Leu239Val
+1582356	C	T	coscolla2021	6.2.2	L622	L622	1582356	fmt_Rv1406	C	T	missense_variant	p.Ser64Leu
+1582418	G	T	coscolla2021	6.3.3	L633	L633	1582418	fmt_Rv1406	G	T	missense_variant	p.Val85Leu
+1584217	C	T	coscolla2021	6.3.2	L632	L632	1584217	fmu_Rv1407	C	T	missense_variant	p.Arg373Cys
+1588746	C	T	coscolla2021	6.3.2	L632	L632	1588746	ribC_Rv1412	C	T	synonymous_variant	p.Thr60Thr
+1589096	C	T	coscolla2021	5.2	L52	L52	1589096	ribC_Rv1412	C	T	missense_variant	p.Ala177Val
+1593952	G	A	coscolla2021	6.2.3	L623	L623	1593952	Rv1419_Rv1419	G	A	missense_variant	p.Asp150Asn
+1599076	C	T	coscolla2021	5.1.2	L512	L512	1599076	Rv1424c_Rv1424c	C	T	synonymous_variant	p.Ala193Ala
+1601416	C	T	coscolla2021	6.3.3	L633	L633	1601416	lipO_Rv1426c	C	T	synonymous_variant	p.Thr302Thr
+1604602	G	T	coscolla2021	6.1.2	L612	L612	1604602	Rv1428c_Rv1428c	G	T	missense_variant	p.Pro53Gln
+1639943	G	A	coscolla2021	6.2.2	L622	L622	1639943	qor_Rv1454c	G	A	synonymous_variant	p.Leu240Leu
+1642714	C	A	coscolla2021	5.1.2	L512	L512	1642714	Rv1457c_Rv1457c	C	A	missense_variant	p.Glu203Asp
+1645620	G	A	coscolla2021	6.3.2	L632	L632	1645620	Rv1459c_Rv1459c	G	A	synonymous_variant	p.Ser173Ser
+1658626	G	C	coscolla2021	6.1.2	L612	L612	1658626	ctpD_Rv1469	G	C	missense_variant	p.Arg555Pro
+1659472	G	T	coscolla2021	5.2	L52	L52	1659472	trxB1_Rv1471	G	T	missense_variant	p.Ala35Ser
+1667070	G	A	coscolla2021	6.3.3	L633	L633	1667070	ripA_Rv1477	G	A	synonymous_variant	p.Val27Val
+1667112	A	G	coscolla2021	6.2.2	L622	L622	1667112	ripA_Rv1477	A	G	synonymous_variant	p.Pro41Pro
+1667653	C	T	coscolla2021	6.3.3	L633	L633	1667653	ripA_Rv1477	C	T	missense_variant	p.Arg222Cys
+1680115	A	G	coscolla2021	6.2.2	L622	L622	1680115	Rv1490_Rv1490	A	G	missense_variant	p.Asn265Ser
+1681310	C	T	coscolla2021	5.3	L53	L53	1681310	Rv1491c_Rv1491c	C	T	synonymous_variant	p.Ala219Ala
+1682922	G	A	coscolla2021	6.2.3	L623	L623	1682922	mutA_Rv1492	G	A	missense_variant	p.Val256Met
+1687287	T	C	coscolla2021	6.1.2	L612	L612	1687287	Rv1496_Rv1496	T	C	missense_variant	p.Val135Ala
+1690252	T	C	coscolla2021	5.1.1	L511	L511	1690252	Rv1498A_Rv1498A	T	C	missense_variant	p.Gln32Arg
+1692640	C	T	coscolla2021	5.1.1	L511	L511	1692640	Rv1501_Rv1501	C	T	stop_gained	p.Arg251*
+1692877	G	T	coscolla2021	5.1.5	L515	L515	1692877	intergenic_region	G	T	NA	
+1694385	C	G	coscolla2021	5.1.5	L515	L515	1694385	Rv1503c_Rv1503c	C	G	misssense_variant	
+1695791	G	T	coscolla2021	5.1.1	L511	L511	1695791	Rv1505c_Rv1505c	G	T	missense_variant	p.Phe52Leu
+1703289	C	T	coscolla2021	6.3.2	L632	L632	1703289	gmdA_Rv1511	C	T	synonymous_variant	p.Thr72Thr
+1708141	C	T	coscolla2021	6.1.1	L611	L611	1708141	Rv1516c_Rv1516c	C	T	synonymous_variant	p.Glu133Glu
+1710248	A	G	coscolla2021	6.3.3	L633	L633	1710248	Rv1518_Rv1518	A	G	missense_variant	p.Tyr202Cys
+1714363	C	T	coscolla2021	5.2	L52	L52	1714363	mmpL12_Rv1522c	C	T	missense_variant	p.Asp1084Asn
+1726973	C	T	coscolla2021	5.3	L53	L53	1726973	pks5_Rv1527c	C	T	synonymous_variant	p.Leu479Leu
+1729548	T	G	coscolla2021	5.1.5	L515	L515	1729548	fadD24_Rv1529	T	G	missense_variant	p.Val16Gly
+1732248	G	T	coscolla2021	6.2.2	L622	L622	1732248	adh_Rv1530	G	T	synonymous_variant	p.Pro292Pro
+1738751	C	A	coscolla2021	5.2	L52	L52	1738751	ileS_Rv1536	C	A	synonymous_variant	p.Arg745Arg
+1741100	G	A	coscolla2021	5.1.3	L513	L513	1741100	dinX_Rv1537	G	A	synonymous_variant	p.Ser415Ser
+1745708	C	T	coscolla2021	6.2.2	L622	L622	1745708	Rv1543_Rv1543	C	T	synonymous_variant	p.Asp215Asp
+1750843	G	A	coscolla2021	6.3.2	L632	L632	1750843	dnaE1_Rv1547	G	A	synonymous_variant	p.Glu1050Glu
+1753421	C	A	coscolla2021	6.1.3	L613	L613	1753421	intergenic_region	C	A	NA	
+1757463	C	G	coscolla2021	5.1.2	L512	L512	1757463	intergenic_region	C	G	NA	
+1773021	A	G	coscolla2021	5.3	L53	L53	1773021	Rv1565c_Rv1565c	A	G	missense_variant	p.Ile270Thr
+1773840	T	C	coscolla2021	5.3	L53	L53	1773840	intergenic_region	T	C	NA	
+1792096	C	T	coscolla2021	6.3.1	L631	L631	1792096	Rv1591_Rv1591	C	T	missense_variant	p.Pro176Leu
+1802893	G	A	coscolla2021	5.1.1	L511	L511	1802893	hisH_Rv1602	G	A	missense_variant	p.Arg77His
+1809552	G	T	coscolla2021	6.3.2	L632	L632	1809552	Rv1610_Rv1610	G	T	missense_variant	p.Arg37Leu
+1813927	G	A	coscolla2021	6.3.1	L631	L631	1813927	lgt_Rv1614	G	A	missense_variant	p.Gly253Ser
+1817692	G	A	coscolla2021	6.2.3	L623	L623	1817692	tesB1_Rv1618	G	A	synonymous_variant	p.Leu26Leu
+1819031	G	C	coscolla2021	5.1.4	L514	L514	1819031	Rv1619_Rv1619	G	C	missense_variant	p.Asp153His
+1822656	T	G	coscolla2021	5.1.5	L515	L515	1822656	cydD_Rv1621c	T	G	missense_variant	p.Glu206Asp
+1824845	A	G	coscolla2021	5.3	L53	L53	1824845	cydA_Rv1623c	A	G	missense_variant	p.Met348Thr
+1837734	C	T	coscolla2021	5.1.5	L515	L515	1837734	uvrB_Rv1633	C	T	synonymous_variant	p.Asp220Asp
+1841961	G	A	coscolla2021	6.3.2	L632	L632	1841961	Rv1635c_Rv1635c	G	A	synonymous_variant	p.Ala94Ala
+1842237	A	G	coscolla2021	6.3.2	L632	L632	1842237	Rv1635c_Rv1635c	A	G	synonymous_variant	p.His2His
+1844436	C	T	coscolla2021	6.1.3	L613	L613	1844436	uvrA_Rv1638	C	T	synonymous_variant	p.Ile232Ile
+1844943	G	C	coscolla2021	5.3	L53	L53	1844943	uvrA_Rv1638	G	C	missense_variant	p.Glu401Asp
+1855067	A	C	coscolla2021	5.1.2	L512	L512	1855067	Rv1645c_Rv1645c	A	C	missense_variant	p.Cys130Gly
+1883958	C	G	coscolla2021	6.1.2	L612	L612	1883958	pks8_Rv1662	C	G	missense_variant	p.Ser752Trp
+1891256	T	G	coscolla2021	5.1.1	L511	L511	1891256	pks11_Rv1665	T	G	missense_variant	p.Leu11Val
+1900943	A	G	coscolla2021	6.1.2	L612	L612	1900943	cmr_Rv1675c	A	G	synonymous_variant	p.His11His
+1903547	C	T	coscolla2021	5.1.3	L513	L513	1903547	fadE16_Rv1679	C	T	synonymous_variant	p.Ala83Ala
+1908787	G	A	coscolla2021	6.2.3	L623	L623	1908787	Rv1683_Rv1683	G	A	synonymous_variant	p.Gly398Gly
+1908975	C	T	coscolla2021	5.1.2	L512	L512	1908975	Rv1683_Rv1683	C	T	missense_variant	p.Ala461Val
+1912268	T	C	coscolla2021	5.1.1	L511	L511	1912268	Rv1687c_Rv1687c	T	C	missense_variant	p.Gln218Arg
+1913177	C	A	coscolla2021	6.1.1	L611	L611	1913177	mpg_Rv1688	C	A	missense_variant	p.Pro67Thr
+1938678	G	C	coscolla2021	6.3.2	L632	L632	1938678	scpB_Rv1710	G	C	missense_variant	p.Gly178Ala
+1941828	G	T	coscolla2021	5.3	L53	L53	1941828	intergenic_region	G	T	NA	
+1945754	C	T	coscolla2021	6.2.3	L623	L623	1945754	Rv1719_Rv1719	C	T	synonymous_variant	p.Ile38Ile
+1952121	C	A	coscolla2021	5.2	L52	L52	1952121	Rv1726_Rv1726	C	A	missense_variant	p.Asp90Glu
+1959694	A	T	coscolla2021	5.3	L53	L53	1959694	Rv1732c_Rv1732c	A	T	missense_variant	p.Leu33His
+1966265	T	C	coscolla2021	6.1.1	L611	L611	1966265	Rv1739c_Rv1739c	T	C	missense_variant	p.Asp458Gly
+2004701	G	C	coscolla2021	5.1.2	L512	L512	2004701	Rv1770_Rv1770	G	C	missense_variant	p.Arg275Pro
+2009230	A	C	coscolla2021	6.3.3	L633	L633	2009230	Rv1775_Rv1775	A	C	missense_variant	p.Lys20Thr
+2013552	T	C	coscolla2021	6.2.2	L622	L622	2013552	Rv1779c_Rv1779c	T	C	missense_variant	p.Thr310Ala
+2015882	C	T	coscolla2021	6.2.3	L623	L623	2015882	malQ_Rv1781c	C	T	stop_gained	p.Trp532*
+2024413	C	T	coscolla2021	6.3.1	L631	L631	2024413	cyp143_Rv1785c	C	T	synonymous_variant	p.Leu72Leu
+2033757	G	A	coscolla2021	5.1.5	L515	L515	2033757	mycP5_Rv1796	G	A	missense_variant	p.Arg10Lys
+2035718	G	T	coscolla2021	5.1.2	L512	L512	2035718	eccE5_Rv1797	G	T	missense_variant	p.Trp79Leu
+2047893	G	T	coscolla2021	6.2.2	L622	L622	2047893	Rv1805c_Rv1805c	G	T	synonymous_variant	p.Arg48Arg
+2053116	A	G	coscolla2021	5.1.5	L515	L515	2053116	Rv1810_Rv1810	A	G	missense_variant	p.Ile62Val
+2053726	C	T	coscolla2021	5.1.1	L511	L511	2053726	mgtC_Rv1811	C	T	missense_variant	p.Thr95Met
+2053833	C	T	coscolla2021	6.2.2	L622	L622	2053833	mgtC_Rv1811	C	T	missense_variant	p.Leu131Phe
+2063303	G	A	coscolla2021	6.1.2	L612	L612	2063303	bacA_Rv1819c	G	A	synonymous_variant	p.Leu476Leu
+2065837	A	T	coscolla2021	6.3.2	L632	L632	2065837	ilvG_Rv1820	A	T	missense_variant	p.Met347Leu
+2077110	C	A	coscolla2021	5.1.4	L514	L514	2077110	gcvB_Rv1832	C	A	missense_variant	p.Arg412Ser
+2083683	C	T	coscolla2021	5.2	L52	L52	2083683	Rv1836c_Rv1836c	C	T	synonymous_variant	p.Ala318Ala
+2090580	C	T	coscolla2021	6.3.2	L632	L632	2090580	Rv1841c_Rv1841c	C	T	missense_variant	p.Val47Ile
+2091597	C	T	coscolla2021	5.2	L52	L52	2091597	Rv1842c_Rv1842c	C	T	synonymous_variant	p.Ala163Ala
+2093158	C	T	coscolla2021	5.1.1	L511	L511	2093158	guaB1_Rv1843c	C	T	missense_variant	p.Val181Ile
+2101240	G	A	coscolla2021	6.3.2	L632	L632	2101240	ureD_Rv1853	G	A	synonymous_variant	p.Ser73Ser
+2108386	G	T	coscolla2021	5.2	L52	L52	2108386	apa_Rv1860	G	T	synonymous_variant	p.Val217Val
+2126352	G	A	coscolla2021	6.3.1	L631	L631	2126352	Rv1877_Rv1877	G	A	missense_variant	p.Gly150Asp
+2129004	C	T	coscolla2021	6.2.2	L622	L622	2129004	glnA3_Rv1878	C	T	missense_variant	p.Ala328Val
+2134329	G	T	coscolla2021	6.1.3	L613	L613	2134329	*MtCM_Rv1885c	G	T	missense_variant	p.Gln182Lys
+2148300	T	C	coscolla2021	5.3	L53	L53	2148300	cinA_Rv1901	T	C	synonymous_variant	p.Arg213Arg
+2150432	G	T	coscolla2021	6.2.2	L622	L622	2150432	Rv1903_Rv1903	G	T	synonymous_variant	p.Pro23Pro
+2173058	C	A	coscolla2021	5.1.5	L515	L515	2173058	lppF_Rv1921c	C	A	synonymous_variant	p.Ala246Ala
+2183319	G	A	coscolla2021	6.3.1	L631	L631	2183319	intergenic_region	G	A	NA	
+2187277	A	G	coscolla2021	5.3	L53	L53	2187277	intergenic_region	A	G	NA	
+2189442	G	A	coscolla2021	6.2.2	L622	L622	2189442	Rv1937_Rv1937	G	A	stop_gained	p.Trp316*
+2192409	G	T	coscolla2021	5.1.5	L515	L515	2192409	Rv1939_Rv1939	G	T	missense_variant	p.Gly106Trp
+2193016	C	A	coscolla2021	5.1.2	L512	L512	2193016	ribA1_Rv1940	C	A,T	synonymous_variant,synonymous_variant	p.Pro137Pro,p.Pro137Pro
+2193016	C	T	coscolla2021	5.1.2	L512	L512	2193016	ribA1_Rv1940	C	A,T	synonymous_variant,synonymous_variant	p.Pro137Pro,p.Pro137Pro
+2193016	C		coscolla2021	5.1.2	L512	L512	2193016	ribA1_Rv1940	C	A,T	synonymous_variant,synonymous_variant	p.Pro137Pro,p.Pro137Pro
+2198182	C	T	coscolla2021	6.3.1	L631	L631	2198182	Rv1947_Rv1947	C	T	synonymous_variant	p.Cys53Cys
+2223949	G	A	coscolla2021	6.1.2	L612	L612	2223949	mpt64_Rv1980c	G	A	synonymous_variant	p.Thr27Thr
+2226118	C	A	coscolla2021	5.1.4	L514	L514	2226118	intergenic_region	C	A	NA	
+2235118	C	A	coscolla2021	5.1.5	L515	L515	2235118	ctpG_Rv1992c	C	A	missense_variant	p.Gly730Val
+2240716	G	A	coscolla2021	5.2	L52	L52	2240716	ctpF_Rv1997	G	A	synonymous_variant	p.Ala186Ala
+2247896	C	A	coscolla2021	5.2	L52	L52	2247896	fabG3_Rv2002	C	A	missense_variant	p.Phe79Leu
+2248163	T	C	coscolla2021	6.3.3	L633	L633	2248163	fabG3_Rv2002	T	C	synonymous_variant	p.Ala168Ala
+2258742	C	T	coscolla2021	6.3.3	L633	L633	2258742	intergenic_region	C	T	NA	
+2263798	G	T	coscolla2021	6.3.1	L631	L631	2263798	Rv2016_Rv2016	G	T	missense_variant	p.Gly125Cys
+2271443	A	G	coscolla2021	5.1.2	L512	L512	2271443	Rv2025c_Rv2025c	A	G	synonymous_variant	p.Tyr102Tyr
+2274339	G	A	coscolla2021	5.1.2	L512	L512	2274339	dosT_Rv2027c	G	A	missense_variant	p.Thr57Ile
+2274524	C	T	coscolla2021	5.1.4	L514	L514	2274524	intergenic_region	C	T	NA	
+2276817	C	T	coscolla2021	6.3.3	L633	L633	2276817	Rv2030c_Rv2030c	C	T	missense_variant	p.Ser557Asn
+2277979	C	A	coscolla2021	5.2	L52	L52	2277979	Rv2030c_Rv2030c	C	A	missense_variant	p.Val170Leu
+2278598	T	C	coscolla2021	6.1.2	L612	L612	2278598	hspX_Rv2031c	T	C	missense_variant	p.Asp112Gly
+2285880	C	T	coscolla2021	6.3.2	L632	L632	2285880	Rv2040c_Rv2040c	C	T	synonymous_variant	p.Val217Val
+2286261	G	A	coscolla2021	6.1.1	L611	L611	2286261	Rv2040c_Rv2040c	G	A	synonymous_variant	p.Val90Val
+2291628	C	G	coscolla2021	5.2	L52	L52	2291628	lppI_Rv2046	C	G	synonymous_variant	p.Pro120Pro
+2292038	G	C	coscolla2021	5.3	L53	L53	2292038	Rv2047c_Rv2047c	G	C	missense_variant	p.Ala830Gly
+2307121	G	A	coscolla2021	6.3.2	L632	L632	2307121	intergenic_region	G	A	NA	
+2315590	C	T	coscolla2021	5.1.2	L512	L512	2315590	Rv2059_Rv2059	C	T	synonymous_variant	p.Tyr139Tyr
+2320437	G	A	coscolla2021	5.1.2	L512	L512	2320437	cobN_Rv2062c	G	A	missense_variant	p.Ala106Val
+2334483	G	A	coscolla2021	6.1.3	L613	L613	2334483	Rv2077A_Rv2077A	G	A	stop_gained	p.Gln38*
+2338068	C	T	coscolla2021	6.1.2	L612	L612	2338068	Rv2081c_Rv2081c	C	T	synonymous_variant	p.Pro146Pro
+2342566	C	A	coscolla2021	6.2.3	L623	L623	2342566	Rv2084_Rv2084	C	A	missense_variant	p.Asp253Glu
+2361311	C	T	coscolla2021	5.1.2	L512	L512	2361311	helZ_Rv2101	C	T	missense_variant	p.Leu358Phe
+2368509	A	C	coscolla2021	6.1.3	L613	L613	2368509	intergenic_region	A	C	NA	
+2376025	T	G	coscolla2021	6.2.2	L622	L622	2376025	mpa_Rv2115c	T	G	missense_variant	p.Glu89Ala
+2398027	C	T	coscolla2021	6.1.3	L613	L613	2398027	lppL_Rv2138	C	T	missense_variant	p.Ala233Val
+2408442	G	A	coscolla2021	6.1.2	L612	L612	2408442	ftsZ_Rv2150c	G	A	synonymous_variant	p.Thr361Thr
+2410954	G	A	coscolla2021	6.3.2	L632	L632	2410954	murC_Rv2152c	G	A	missense_variant	p.Thr390Ile
+2416149	T	G	coscolla2021	5.2	L52	L52	2416149	murD_Rv2155c	T	G	synonymous_variant	p.Leu82Leu
+2420779	T	C	coscolla2021	5.1.5	L515	L515	2420779	Rv2159c_Rv2159c	T	C	missense_variant	p.Asp296Gly
+2428823	C	T	coscolla2021	5.1.5	L515	L515	2428823	Rv2165c_Rv2165c	C	T	synonymous_variant	p.Thr201Thr
+2433086	G	A	coscolla2021	5.2	L52	L52	2433086	lppM_Rv2171	G	A	missense_variant	p.Ala46Thr
+2445468	C	T	coscolla2021	6.1.2	L612	L612	2445468	Rv2183c_Rv2183c	C	T	missense_variant	p.Glu115Lys
+2448598	C	T	coscolla2021	6.3.3	L633	L633	2448598	fadD15_Rv2187	C	T	stop_gained	p.Gln147*
+2448862	C	T	coscolla2021	6.3.2	L632	L632	2448862	fadD15_Rv2187	C	T	missense_variant	p.His235Tyr
+2453400	C	A	coscolla2021	6.3.2	L632	L632	2453400	intergenic_region,intergenic_region	C	A,G	NA	
+2453400	C	G	coscolla2021	6.3.2	L632	L632	2453400	intergenic_region,intergenic_region	C	A,G	NA	
+2453400	C		coscolla2021	6.3.2	L632	L632	2453400	intergenic_region,intergenic_region	C	A,G	NA	
+2455103	G	T	coscolla2021	5.3	L53	L53	2455103	Rv2191_Rv2191	G	T	missense_variant	p.Gly429Cys
+2478058	G	T	coscolla2021	5.1.3	L513	L513	2478058	Rv2212_Rv2212	G	T	missense_variant	p.Arg290Leu
+2485234	C	T	coscolla2021	6.1.3	L613	L613	2485234	lipB_Rv2217	C	T	synonymous_variant	p.Val217Val
+2485567	G	A	coscolla2021	5.1.5	L515	L515	2485567	lipA_Rv2218	G	A	missense_variant	p.Asp99Asn
+2503539	G	A	coscolla2021	6.1.2	L612	L612	2503539	Rv2230c_Rv2230c	G	A	missense_variant	p.Pro357Leu
+2507495	C	A	coscolla2021	6.3.2	L632	L632	2507495	ptpA_Rv2234	C	A	stop_gained	p.Ser117*
+2508037	C	T	coscolla2021	5.1.5	L515	L515	2508037	Rv2235_Rv2235	C	T	missense_variant	p.Pro134Leu
+2528650	A	G	coscolla2021	5.1.4	L514	L514	2528650	Rv2254c_Rv2254c	A	G	missense_variant	p.Leu109Ser
+2532502	C	T	coscolla2021	6.3.2	L632	L632	2532502	mscR_Rv2259	C	T	synonymous_variant	p.Ile86Ile
+2534926	G	C	coscolla2021	6.3.3	L633	L633	2534926	Rv2261c_Rv2261c	G	C	stopgain	
+2540351	G	A	coscolla2021	5.1.1	L511	L511	2540351	cyp124_Rv2266	G	A	missense_variant	p.Arg83His
+2543943	C	T	coscolla2021	5.1.3	L513	L513	2543943	cyp128_Rv2268c	C	T	missense_variant	p.Asp112Asn
+2544132	A	G	coscolla2021	5.1.1	L511	L511	2544132	cyp128_Rv2268c	A	G	missense_variant	p.Ser49Pro
+2546350	C	T	coscolla2021	6.3.3	L633	L633	2546350	Rv2273_Rv2273	C	T	synonymous_variant	p.Ile83Ile
+2562389	G	A	coscolla2021	6.3.2	L632	L632	2562389	cdh_Rv2289	G	A	missense_variant	p.Gly239Arg
+2563401	T	G	coscolla2021	6.1.1	L611	L611	2563401	sseB_Rv2291	T	G	synonymous_variant	p.Ala76Ala
+2565446	G	A	coscolla2021	5.1.4	L514	L514	2565446	Rv2294_Rv2294	G	A	synonymous_variant	p.Val40Val
+2571879	C	T	coscolla2021	6.2.2	L622	L622	2571879	htpG_Rv2299c	C	T	missense_variant	p.Asp42Asn
+2578618	A	G	coscolla2021	5.1.5	L515	L515	2578618	Rv2307c_Rv2307c	A	G	missense_variant	p.Trp27Arg
+2585306	A	C	coscolla2021	6.2.2	L622	L622	2585306	Rv2313c_Rv2313c	A	C	missense_variant	p.Leu201Val
+2591298	G	T	coscolla2021	5.2	L52	L52	2591298	uspC_Rv2318	G	T	missense_variant	p.Val261Phe
+2596543	G	A	coscolla2021	6.3.3	L633	L633	2596543	Rv2324_Rv2324	G	A	synonymous_variant	p.Val70Val
+2598633	A	G	coscolla2021	6.3.3	L633	L633	2598633	Rv2326c_Rv2326c	A	G	missense_variant	p.Ser439Pro
+2602160	G	A	coscolla2021	6.3.1	L631	L631	2602160	narK1_Rv2329c	G	A	synonymous_variant	p.Val434Val
+2603541	T	C	coscolla2021	5.1.5	L515	L515	2603541	intergenic_region	T	C	NA	
+2605663	G	T	coscolla2021	6.2.2	L622	L622	2605663	mez_Rv2332	G	T	missense_variant	p.Ala186Ser
+2641658	A	C	coscolla2021	6.3.1	L631	L631	2641658	zur_Rv2359	A	C	synonymous_variant	p.Ala3Ala
+2642545	G	C	coscolla2021	5.1.4	L514	L514	2642545	Rv2360c_Rv2360c	G	C	missense_variant	p.Leu12Val
+2652797	G	A	coscolla2021	6.3.1	L631	L631	2652797	Rv2372c_Rv2372c	G	A	missense_variant	p.Thr10Ile
+2662814	G	A	coscolla2021	6.2.2	L622	L622	2662814	mbtE_Rv2380c	G	A	synonymous_variant	p.Thr1434Thr
+2671677	C	T	coscolla2021	6.3.1	L631	L631	2671677	mbtB_Rv2383c	C	T	synonymous_variant	p.Thr1387Thr
+2679543	T	C	coscolla2021	6.2.3	L623	L623	2679543	mbtI_Rv2386c	T	C	missense_variant	p.Ile155Val
+2682474	C	T	coscolla2021	5.3	L53	L53	2682474	hemN_Rv2388c	C	T	synonymous_variant	p.Ala223Ala
+2687224	G	A	coscolla2021	5.1.2	L512	L512	2687224	che1_Rv2393	G	A	missense_variant	p.Gly33Arg
+2692581	G	C	coscolla2021	6.1.2	L612	L612	2692581	aprB_Rv2395B	G	C,T	missense_variant,missense_variant	p.Asp11His,p.Asp11Tyr
+2692581	G	T	coscolla2021	6.1.2	L612	L612	2692581	aprB_Rv2395B	G	C,T	missense_variant,missense_variant	p.Asp11His,p.Asp11Tyr
+2692581	G		coscolla2021	6.1.2	L612	L612	2692581	aprB_Rv2395B	G	C,T	missense_variant,missense_variant	p.Asp11His,p.Asp11Tyr
+2698635	C	A	coscolla2021	5.1.4	L514	L514	2698635	Rv2402_Rv2402	C	A	stop_gained	p.Ser36*
+2708718	G	A	coscolla2021	5.3	L53	L53	2708718	Rv2411c_Rv2411c	G	A	synonymous_variant	p.Ala416Ala
+2712331	C	T	coscolla2021	6.3.2	L632	L632	2712331	Rv2414c_Rv2414c	C	T	synonymous_variant	p.Arg182Arg
+2722598	C	A	coscolla2021	5.1.5	L515	L515	2722598	Rv2425c_Rv2425c	C	A	missense_variant	p.Glu237Asp
+2722669	T	C	coscolla2021	5.1.5	L515	L515	2722669	Rv2425c_Rv2425c	T	C	missense_variant	p.Thr214Ala
+2729340	C	T	coscolla2021	6.3.1	L631	L631	2729340	Rv2434c_Rv2434c	C	T	synonymous_variant	p.Leu407Leu
+2739166	G	A	coscolla2021	5.3	L53	L53	2739166	obg_Rv2440c	G	A	missense_variant	p.Ser174Leu
+2762464	G	A	coscolla2021	5.3	L53	L53	2762464	intergenic_region	G	A	NA	
+2769860	G	A	coscolla2021	6.1.2	L612	L612	2769860	pepN_Rv2467	G	A	missense_variant	p.Arg292Gln
+2781383	G	A	coscolla2021	6.2.3	L623	L623	2781383	gdh_Rv2476c	G	A	missense_variant	p.Pro294Ser
+2809618	C	A	coscolla2021	5.3	L53	L53	2809618	bkdC_Rv2495c	C	A	missense_variant	p.Ala108Ser
+2810786	A	C	coscolla2021	5.2	L52	L52	2810786	bkdB_Rv2496c	A	C	missense_variant	p.Leu66Arg
+2824934	T	C	coscolla2021	5.1.5	L515	L515	2824934	Rv2509_Rv2509	T	C	missense_variant	p.Ile86Thr
+2838593	C	T	coscolla2021	5.1.4	L514	L514	2838593	Rv2522c_Rv2522c	C	T	missense_variant	p.Val317Ile
+2839209	G	A	coscolla2021	5.3	L53	L53	2839209	Rv2522c_Rv2522c	G	A	synonymous_variant	p.Pro111Pro
+2849703	G	A	coscolla2021	6.2.3	L623	L623	2849703	intergenic_region	G	A	NA	
+2852763	C	T	coscolla2021	5.1.5	L515	L515	2852763	intergenic_region	C	T	NA	
+2857875	T	C	coscolla2021	5.1.5	L515	L515	2857875	Rv2532c_Rv2532c	T	C	missense_variant	p.Asp127Gly
+2857876	C	A	coscolla2021	5.1.5	L515	L515	2857876	Rv2532c_Rv2532c	C	A	missense_variant	p.Asp127Tyr
+2865240	G	A	coscolla2021	5.1.5	L515	L515	2865240	Rv2542_Rv2542	G	A	synonymous_variant	p.Leu37Leu
+2877246	C	T	coscolla2021	5.1.3	L513	L513	2877246	Rv2557_Rv2557	C	T	missense_variant	p.Leu59Phe
+2877698	C	T	coscolla2021	6.3.1	L631	L631	2877698	Rv2557_Rv2557	C	T	synonymous_variant	p.Cys209Cys
+2880685	G	A	coscolla2021	5.1.1	L511	L511	2880685	Rv2560_Rv2560	G	A	missense_variant	p.Gly204Glu
+2881124	C	A	coscolla2021	5.1.3	L513	L513	2881124	intergenic_region	C	A	NA	
+2884521	A	G	coscolla2021	5.1.1	L511	L511	2884521	intergenic_region	A	G	NA	
+2893477	G	A	coscolla2021	5.2	L52	L52	2893477	Rv2569c_Rv2569c	G	A	missense_variant	p.Ala311Val
+2894678	G	A	coscolla2021	6.3.1	L631	L631	2894678	Rv2570_Rv2570	G	A	missense_variant	p.Gly56Asp
+2895540	A	T	coscolla2021	6.2.2	L622	L622	2895540	Rv2571c_Rv2571c	A	T	missense_variant	p.Ser141Thr
+2904568	C	T	coscolla2021	5.2	L52	L52	2904568	intergenic_region	C	T	NA	
+2925802	C	T	coscolla2021	6.2.2	L622	L622	2925802	vapC40_Rv2596	C	T	synonymous_variant	p.Ala23Ala
+2937479	G	A	coscolla2021	5.1.5	L515	L515	2937479	Rv2609c_Rv2609c	G	A	synonymous_variant	p.Asp129Asp
+2940052	G	A	coscolla2021	5.3	L53	L53	2940052	pgsA1_Rv2612c	G	A	synonymous_variant	p.Ala187Ala
+2948794	G	A	coscolla2021	6.1.2	L612	L612	2948794	Rv2622_Rv2622	G	A	synonymous_variant	p.Val53Val
+2950061	C	T	coscolla2021	6.1.3	L613	L613	2950061	TB31.7_Rv2623	C	T	missense_variant	p.Pro157Ser
+2964956	T	G	coscolla2021	6.3.3	L633	L633	2964956	intergenic_region	T	G	NA	
+2967433	T	C	coscolla2021	5.1.5	L515	L515	2967433	arsC_Rv2643	T	C	missense_variant	p.Val175Ala
+2967939	T	G	coscolla2021	5.1.5	L515	L515	2967939	arsC_Rv2643	T	G	missense_variant	p.Tyr344Asp
+2985291	C	T	coscolla2021	6.1.2	L612	L612	2985291	Rv2669_Rv2669	C	T	synonymous_variant	p.Asp3Asp
+2988308	C	A	coscolla2021	6.3.1	L631	L631	2988308	Rv2672_Rv2672	C	A	missense_variant	p.Asn209Lys
+2988841	C	G	coscolla2021	6.2.2	L622	L622	2988841	Rv2672_Rv2672	C	G	missense_variant	p.Ala387Gly
+3005341	A	G	coscolla2021	5.1.1	L511	L511	3005341	Rv2688c_Rv2688c	A	G	missense_variant	p.Tyr104His
+3035112	T	C	coscolla2021	6.1.2	L612	L612	3035112	Rv2723_Rv2723	T	C	synonymous_variant	p.Tyr68Tyr
+3041556	T	C	coscolla2021	5.1.2	L512	L512	3041556	intergenic_region	T	C	NA	
+3053339	T	C	coscolla2021	6.1.3	L613	L613	3053339	ephG_Rv2740	T	C	missense_variant	p.Val36Ala
+3056312	C	T	coscolla2021	6.3.2	L632	L632	3056312	Rv2742c_Rv2742c	C	T	missense_variant	p.Ala13Thr
+3057262	A	T	coscolla2021	5.3	L53	L53	3057262	35kd_ag_Rv2744c	A	T	missense_variant	p.Tyr268Asn
+3058190	C	T	coscolla2021	6.1.2	L612	L612	3058190	intergenic_region	C	T	NA	
+3061189	G	A	coscolla2021	6.1.2	L612	L612	3061189	ftsK_Rv2748c	G	A	missense_variant	p.Arg440Cys
+3068642	T	G	coscolla2021	6.1.1	L611	L611	3068642	hsdM_Rv2756c	T	G	missense_variant	p.Glu481Ala
+3075665	C	A	coscolla2021	5.1.1	L511	L511	3075665	fabG5_Rv2766c	C	A	stop_gained	p.Glu236*
+3082928	G	A	coscolla2021	6.2.2	L622	L622	3082928	Rv2775_Rv2775	G	A	missense_variant	p.Arg7Gln
+3089275	G	A	coscolla2021	6.2.2	L622	L622	3089275	pepR_Rv2782c	G	A	synonymous_variant	p.Leu363Leu
+3093941	A	G	coscolla2021	6.3.1	L631	L631	3093941	ribF_Rv2786c	A	G	synonymous_variant	p.Asp320Asp
+3095008	C	T	coscolla2021	6.1.2	L612	L612	3095008	intergenic_region	C	T	NA	
+3097223	C	T	coscolla2021	5.1.4	L514	L514	3097223	sirR_Rv2788	C	T	synonymous_variant	p.Leu89Leu
+3098483	C	T	coscolla2021	5.3	L53	L53	3098483	fadE21_Rv2789c	C	T	synonymous_variant	p.Ala152Ala
+3106840	G	T	coscolla2021	5.2	L52	L52	3106840	Rv2797c_Rv2797c	G	T	synonymous_variant	p.Ala156Ala
+3108169	C	A	coscolla2021	6.2.1	L621	L621	3108169	Rv2799_Rv2799	C	A	missense_variant	p.Asp134Glu
+3122267	G	A	coscolla2021	6.3.3	L633	L633	3122267	intergenic_region	G	A	NA	
+3137129	C	A	coscolla2021	5.1.5	L515	L515	3137129	vapB22_Rv2830c	C	A	synonymous_variant	p.Val32Val
+3141231	G	A	coscolla2021	6.3.3	L633	L633	3141231	ugpE_Rv2834c	G	A	synonymous_variant	p.Phe28Phe
+3142153	C	T	coscolla2021	5.3	L53	L53	3142153	ugpA_Rv2835c	C	T	missense_variant	p.Val24Met
+3151443	G	A	coscolla2021	6.2.2	L622	L622	3151443	proS_Rv2845c	G	A	missense_variant	p.Ala503Val
+3153021	A	T	coscolla2021	6.1.3	L613	L613	3153021	intergenic_region	A	T	NA	
+3166081	C	T	coscolla2021	6.3.1	L631	L631	3166081	mtr_Rv2855	C	T	stop_gained	p.Gln293*
+3172750	T	G	coscolla2021	6.2.2	L622	L622	3172750	glnA4_Rv2860c	T	G	missense_variant	p.Tyr84Ser
+3173427	G	A	coscolla2021	5.1.5	L515	L515	3173427	mapB_Rv2861c	G	A	synonymous_variant	p.Asn197Asn
+3185577	T	C	coscolla2021	5.1.5	L515	L515	3185577	dipZ_Rv2874	T	C	missense_variant	p.Val244Ala
+3190431	G	A	coscolla2021	5.1.5	L515	L515	3190431	Rv2880c	G	A	misssense_variant	
+3196536	C	A	coscolla2021	5.1.2	L512	L512	3196536	Rv2887_Rv2887	C	A	missense_variant	p.Pro36Thr
+3202518	G	A	coscolla2021	6.3.2	L632	L632	3202518	Rv2893_Rv2893	G	A	synonymous_variant	p.Gln33Gln
+3204225	G	A	coscolla2021	5.1.5	L515	L515	3204225	xerC_Rv2894c	G	A	synonymous_variant	p.Thr22Thr
+3214583	C	T	coscolla2021	6.3.3	L633	L633	3214583	intergenic_region	C	T	NA	
+3221030	G	A	coscolla2021	5.2	L52	L52	3221030	Rv2913c_Rv2913c	G	A	synonymous_variant	p.Gly223Gly
+3222951	C	T	coscolla2021	6.3.3	L633	L633	3222951	pknI_Rv2914c	C	T	missense_variant	p.Ala192Thr
+3223334	G	A	coscolla2021	6.2.3	L623	L623	3223334	pknI_Rv2914c	G	A	missense_variant	p.Ala64Val
+3273986	C	T	coscolla2021	5.3	L53	L53	3273986	drrB_Rv2937	C	T	missense_variant	p.Pro261Ser
+3287726	G	C	coscolla2021	6.2.2	L622	L622	3287726	mmpL7_Rv2942	G	C	missense_variant	p.Gly886Ala
+3304019	A	G	coscolla2021	6.2.2	L622	L622	3304019	Rv2951c_Rv2951c	A	G	missense_variant	p.Met77Thr
+3307358	C	A	coscolla2021	6.2.2	L622	L622	3307358	Rv2954c_Rv2954c	C	A	stop_gained	p.Glu12*
+3308162	G	A	coscolla2021	6.3.2	L632	L632	3308162	Rv2955c_Rv2955c	G	A	synonymous_variant	p.Asp128Asp
+3314768	G	A	coscolla2021	5.1.5	L515	L515	3314768	Rv2962c_Rv2962c	G	A	synonymous_variant	p.Leu119Leu
+3318158	G	A	coscolla2021	5.1.5	L515	L515	3318158	intergenic_region	G	A	NA	
+3321814	C	T	coscolla2021	5.3	L53	L53	3321814	pca_Rv2967c	C	T	synonymous_variant	p.Ala411Ala
+3330751	A	G	coscolla2021	5.2	L52	L52	3330751	Rv2974c_Rv2974c	A	G	missense_variant	p.Val204Ala
+3338529	G	C	coscolla2021	5.1.4	L514	L514	3338529	gpdA2_Rv2982c	G	C	synonymous_variant	p.Val157Val
+3348128	C	T	coscolla2021	6.3.3	L633	L633	3348128	Rv2991_Rv2991	C	T	synonymous_variant	p.Gly49Gly
+3359234	G	A	coscolla2021	6.2.3	L623	L623	3359234	Rv3000_Rv3000	G	A	missense_variant	p.Arg208Gln
+3363401	G	A	coscolla2021	6.3.3	L633	L633	3363401	cfp6_Rv3004	G	A	synonymous_variant	p.Leu18Leu
+3368284	C	T	coscolla2021	5.1.1	L511	L511	3368284	gatB_Rv3009c	C	T	synonymous_variant	p.Leu170Leu
+3368415	G	A	coscolla2021	6.2.2	L622	L622	3368415	gatB_Rv3009c	G	A	synonymous_variant	p.Leu127Leu
+3390726	C	G	coscolla2021	6.3.2	L632	L632	3390726	Rv3031_Rv3031	C	G	missense_variant	p.His269Asp
+3405478	G	A	coscolla2021	6.1.3	L613	L613	3405478	fecB_Rv3044	G	A	missense_variant	p.Ala115Thr
+3413117	G	A	coscolla2021	5.1.1	L511	L511	3413117	nrdE_Rv3051c	G	A	synonymous_variant	p.Thr350Thr
+3430978	C	T	coscolla2021	6.3.2	L632	L632	3430978	Rv3066_Rv3066	C	T	missense_variant	p.Ala91Val
+3433140	G	A	coscolla2021	6.3.3	L633	L633	3433140	pgmA_Rv3068c	G	A	synonymous_variant	p.Pro161Pro
+3453202	C	T	coscolla2021	5.1.1	L511	L511	3453202	Rv3087_Rv3087	C	T	missense_variant	p.Pro93Leu
+3463331	G	C	coscolla2021	6.3.2	L632	L632	3463331	Rv3094c_Rv3094c	G	C	missense_variant	p.Cys187Trp
+3469342	C	A	coscolla2021	6.2.2	L622	L622	3469342	smpB_Rv3100c	C	A	missense_variant	p.Val148Leu
+3472901	A	C	coscolla2021	5.1.2	L512	L512	3472901	prfB_Rv3105c	A	C	missense_variant	p.Leu335Arg
+3477201	C	T	coscolla2021	6.1.1	L611	L611	3477201	Rv3108_Rv3108	C	T	missense_variant	p.His48Tyr
+3485515	G	A	coscolla2021	6.1.2	L612	L612	3485515	moaE1_Rv3119	G	A	synonymous_variant	p.Val128Val
+3485911	C	T	coscolla2021	6.3.3	L633	L633	3485911	Rv3120_Rv3120	C	T	missense_variant	p.Arg114Cys
+3488064	G	A	coscolla2021	6.3.1	L631	L631	3488064	intergenic_region	G	A	NA	
+3488116	C	T	coscolla2021	6.3.1	L631	L631	3488116	Rv3122_Rv3122	C	T	stop_gained	p.Gln10*
+3488132	G	A	coscolla2021	6.2.2	L622	L622	3488132	Rv3122_Rv3122	G	A	missense_variant	p.Arg15Gln
+3488812	C	T	coscolla2021	6.1.1	L611	L611	3488812	Rv3123_Rv3123	C	T	synonymous_variant	p.Leu82Leu
+3506966	C	T	coscolla2021	5.1.5	L515	L515	3506966	fadE23_Rv3140	C	T	synonymous_variant	p.Asn59Asn
+3543795	C	T	coscolla2021	5.1.5	L515	L515	3543795	Rv3175_Rv3175	C	T	synonymous_variant	p.Ala312Ala
+3546304	G	A	coscolla2021	6.2.2	L622	L622	3546304	Rv3177_Rv3177	G	A	synonymous_variant	p.Ser286Ser
+3551154	A	G	coscolla2021	6.3.3	L633	L633	3551154	intergenic_region	A	G	NA	
+3575946	T	G	coscolla2021	5.1.5	L515	L515	3575946	Rv3201c_Rv3201c	T	G	missense_variant	p.Asn364Thr
+3580670	G	T	coscolla2021	5.1.1	L511	L511	3580670	lipV_Rv3203	G	T	synonymous_variant	p.Leu11Leu
+3597968	T	C	coscolla2021	6.2.3	L623	L623	3597968	intergenic_region	T	C	NA	
+3598708	C	A	coscolla2021	6.2.3	L623	L623	3598708	Rv3222c_Rv3222c	C	A	missense_variant	p.Gly66Val
+3600578	A	G	coscolla2021	5.1.5	L515	L515	3600578	Rv3224_Rv3224	A	G	missense_variant	p.Glu243Gly
+3603865	C	T	coscolla2021	6.1.2	L612	L612	3603865	aroA_Rv3227	C	T	synonymous_variant	p.Asp163Asp
+3606857	G	A	coscolla2021	6.3.1	L631	L631	3606857	desA3_Rv3229c	G	A	synonymous_variant	p.Leu60Leu
+3607167	G	T	coscolla2021	6.1.2	L612	L612	3607167	Rv3230c_Rv3230c	G	T	missense_variant	p.Thr363Asn
+3610705	G	A	coscolla2021	5.1.1	L511	L511	3610705	tgs3_Rv3234c	G	A	missense_variant	p.Ala162Val
+3613354	C	A	coscolla2021	6.3.1	L631	L631	3613354	Rv3237c_Rv3237c	C	A	missense_variant	p.Gly84Trp
+3613591	C	T	coscolla2021	5.1.4	L514	L514	3613591	Rv3237c_Rv3237c	C	T	missense_variant	p.Glu5Lys
+3614879	C	A	coscolla2021	6.3.2	L632	L632	3614879	Rv3239c_Rv3239c	C	A	missense_variant	p.Gly909Cys
+3625813	G	A	coscolla2021	6.2.2	L622	L622	3625813	mtrB_Rv3245c	G	A	synonymous_variant	p.Asp267Asp
+3629980	G	A	coscolla2021	5.3	L53	L53	3629980	Rv3249c_Rv3249c	G	A	synonymous_variant	p.Thr136Thr
+3639404	G	A	coscolla2021	6.2.1	L621	L621	3639404	intergenic_region	G	A	NA	
+3661026	C	T	coscolla2021	6.2.2	L622	L622	3661026	Rv3278c_Rv3278c	C	T	synonymous_variant	p.Ser48Ser
+3665212	C	A	coscolla2021	6.3.3	L633	L633	3665212	sseA_Rv3283	C	A	synonymous_variant	p.Ile95Ile
+3668244	G	T	coscolla2021	5.1.1	L511	L511	3668244	sigF_Rv3286c	G	T	synonymous_variant	p.Arg237Arg
+3669232	G	A	coscolla2021	6.2.2	L622	L622	3669232	rsbW_Rv3287c	G	A	synonymous_variant	p.Leu53Leu
+3671022	C	A	coscolla2021	6.2.3	L623	L623	3671022	lat_Rv3290c	C	A	missense_variant	p.Arg258Leu
+3681257	C	G	coscolla2021	6.2.2	L622	L622	3681257	lhr_Rv3296	C	G	missense_variant	p.Leu1495Val
+3681310	G	A	coscolla2021	6.2.2	L622	L622	3681310	lhr_Rv3296	G	A	synonymous_variant	p.Arg1512Arg
+3692024	G	C	coscolla2021	6.3.3	L633	L633	3692024	amiA1_Rv3305c	G	C	missense_variant	p.Ala262Gly
+3714536	G	T	coscolla2021	6.3.1	L631	L631	3714536	Rv3329_Rv3329	G	T	stop_gained	p.Glu49*
+3722037	C	T	coscolla2021	6.3.2	L632	L632	3722037	Rv3335c_Rv3335c	C	T	synonymous_variant	p.Val188Val
+3784856	G	A	coscolla2021	5.3	L53	L53	3784856	intergenic_region	G	A	NA	
+3788386	G	A	coscolla2021	5.1.5	L515	L515	3788386	echA18'_Rv3374	G	A	misssense_variant	
+3793929	C	G	coscolla2021	5.2	L52	L52	3793929	dxs2_Rv3379c	C	G	synonymous_variant	p.Arg313Arg
+3812237	G	A	coscolla2021	6.1.2	L612	L612	3812237	Rv3395A_Rv3395A	G	A	synonymous_variant	p.Leu173Leu
+3814478	C	A	coscolla2021	5.2	L52	L52	3814478	phyA_Rv3397c	C	A	missense_variant	p.Gly174Val
+3823314	G	A	coscolla2021	6.3.2	L632	L632	3823314	Rv3403c_Rv3403c	G	A	missense_variant	p.Leu184Phe
+3823834	C	A	coscolla2021	6.3.3	L633	L633	3823834	Rv3403c_Rv3403c	C	A	missense_variant	p.Met10Ile
+3834623	G	A	coscolla2021	6.1.1	L611	L611	3834623	intergenic_region	G	A	NA	
+3857109	T	C	coscolla2021	5.1.1	L511	L511	3857109	Rv3437_Rv3437	T	C	missense_variant	p.Ser67Pro
+3859013	G	A	coscolla2021	5.1.2	L512	L512	3859013	Rv3439c_Rv3439c	G	A	missense_variant	p.Ala217Val
+3868024	A	T	coscolla2021	6.3.2	L632	L632	3868024	eccC4_Rv3447c	A	T	stop_gained	p.Leu72*
+3873801	G	A	coscolla2021	5.1.5	L515	L515	3873801	cut4_Rv3452	G	A	missense_variant	p.Cys117Tyr
+3886547	C	G	coscolla2021	5.3	L53	L53	3886547	mhpE_Rv3469c	C	G	synonymous_variant	p.Ala179Ala
+3886617	C	G	coscolla2021	6.2.3	L623	L623	3886617	mhpE_Rv3469c	C	G	missense_variant	p.Arg156Pro
+3893139	G	A	coscolla2021	5.1.4	L514	L514	3893139	kgtP_Rv3476c	G	A	synonymous	
+3903740	G	A	coscolla2021	6.3.2	L632	L632	3903740	Rv3484_Rv3484	G	A	synonymous_variant	p.Val221Val
+3907350	C	T	coscolla2021	5.1.1	L511	L511	3907350	intergenic_region	C	T	NA	
+3918067	T	C	coscolla2021	6.1.1	L611	L611	3918067	mce4A_Rv3499c	T	C	synonymous_variant	p.Leu378Leu
+3920632	T	C	coscolla2021	5.2	L52	L52	3920632	yrbE4A_Rv3501c	T	C	missense_variant	p.Asp77Gly
+3922935	C	T	coscolla2021	6.3.2	L632	L632	3922935	fadE26_Rv3504	C	T	synonymous_variant	p.Asn155Asn
+3937701	C	T	coscolla2021	6.3.2	L632	L632	3937701	ilvX_Rv3509c	C	T	missense_variant	p.Ala242Thr
+3938101	G	A	coscolla2021	6.1.2	L612	L612	3938101	ilvX_Rv3509c	G	A	synonymous_variant	p.Asp108Asp
+3955404	G	A	coscolla2021	6.1.1	L611	L611	3955404	cyp142_Rv3518c	G	A	synonymous_variant	p.Leu40Leu
+3961758	A	G	coscolla2021	6.1.2	L612	L612	3961758	Rv3524_Rv3524	A	G	missense_variant	p.Asn335Ser
+3966993	G	A	coscolla2021	6.3.1	L631	L631	3966993	Rv3529c_Rv3529c	G	A	synonymous_variant	p.Leu16Leu
+3980030	C	G	coscolla2021	6.2.2	L622	L622	3980030	ltp2_Rv3540c	C	G	synonymous_variant	p.Leu210Leu
+3985424	C	T	coscolla2021	6.3.2	L632	L632	3985424	cyp125_Rv3545c	C	T	missense_variant	p.Val8Met
+4001041	G	A	coscolla2021	6.2.1	L621	L621	4001041	fadE30_Rv3560c	G	A	synonymous_variant	p.Ala183Ala
+4004849	G	A	coscolla2021	6.1.3	L613	L613	4004849	fadE32_Rv3563	G	A	missense_variant	p.Glu187Lys
+4010974	A	C	coscolla2021	5.1.1	L511	L511	4010974	hsaD_Rv3569c	A	C	missense_variant	p.Val33Gly
+4015355	C	T	coscolla2021	5.1.5	L515	L515	4015355	fadE34_Rv3573c	C	T	synonymous_variant	p.Ala286Ala
+4019069	T	C	coscolla2021	5.3	L53	L53	4019069	lppH_Rv3576	T	C	stop_lost&splice_region_variant	p.Ter238Glnext*?
+4020074	C	T	coscolla2021	5.1.1	L511	L511	4020074	Rv3577_Rv3577	C	T	synonymous_variant	p.Asp271Asp
+4020452	C	A	coscolla2021	6.3.3	L633	L633	4020452	arsB2_Rv3578	C	A	missense_variant	p.Ala104Asp
+4021200	C	T	coscolla2021	5.1.3	L513	L513	4021200	arsB2_Rv3578	C	T	synonymous_variant	p.Asn353Asn
+4030983	C	A	coscolla2021	5.2	L52	L52	4030983	mutY_Rv3589	C	A	missense_variant	p.Ala164Asp
+4047700	G	A	coscolla2021	5.1.5	L515	L515	4047700	intergenic_region	G	A	NA	
+4052920	C	G	coscolla2021	5.3	L53	L53	4052920	intergenic_region	C	G	NA	
+4055217	G	A	coscolla2021	6.1.3	L613	L613	4055217	espA_Rv3616c	G	A	synonymous_variant	p.Leu387Leu
+4064552	T	G	coscolla2021	6.1.2	L612	L612	4064552	mesJ_Rv3625c	T	G	synonymous_variant	p.Ala107Ala
+4064690	C	A	coscolla2021	5.1.5	L515	L515	4064690	mesJ_Rv3625c	C	A,T	missense_variant,synonymous_variant	p.Gln61His,p.Gln61Gln
+4064690	C	T	coscolla2021	5.1.5	L515	L515	4064690	mesJ_Rv3625c	C	A,T	missense_variant,synonymous_variant	p.Gln61His,p.Gln61Gln
+4064690	C		coscolla2021	5.1.5	L515	L515	4064690	mesJ_Rv3625c	C	A,T	missense_variant,synonymous_variant	p.Gln61His,p.Gln61Gln
+4067764	C	T	coscolla2021	6.1.2	L612	L612	4067764	ppa_Rv3628	C	T	synonymous_variant	p.Phe114Phe
+4072805	C	A	coscolla2021	5.1.1	L511	L511	4072805	galE1_Rv3634c	C	A	synonymous_variant	p.Pro269Pro
+4085887	C	T	coscolla2021	5.2	L52	L52	4085887	topA_Rv3646c	C	T	synonymous_variant	p.Ala457Ala
+4091562	T	G	coscolla2021	6.2.2	L622	L622	4091562	intergenic_region	T	G	NA	
+4101841	G	A	coscolla2021	6.3.2	L632	L632	4101841	Rv3662c_Rv3662c	G	A	synonymous_variant	p.His65His
+4125311	C	T	coscolla2021	5.2	L52	L52	4125311	Rv3683_Rv3683	C	T	missense_variant	p.Pro299Ser
+4156659	G	A	coscolla2021	6.3.1	L631	L631	4156659	dnaQ_Rv3711c	G	A	missense_variant	p.Ser24Leu
+4162265	C	A	coscolla2021	5.3	L53	L53	4162265	intergenic_region	C	A	NA	
+4163880	G	A	coscolla2021	5.3	L53	L53	4163880	Rv3720_Rv3720	G	A	missense_variant	p.Ala49Thr
+4170990	G	A	coscolla2021	6.2.3	L623	L623	4170990	Rv3725_Rv3725	G	A	synonymous_variant	p.Pro259Pro
+4180840	G	A	coscolla2021	5.1.1	L511	L511	4180840	Rv3730c_Rv3730c	G	A	missense_variant	p.Ala294Val
+4181975	G	A	coscolla2021	5.2	L52	L52	4181975	ligC_Rv3731	G	A	missense_variant	p.Cys73Tyr
+4183413	G	C	coscolla2021	5.3	L53	L53	4183413	Rv3732_Rv3732	G	C	missense_variant	p.Trp160Cys
+4194664	A	G	coscolla2021	6.2.2	L622	L622	4194664	ctpJ_Rv3743c	A	G	missense_variant	p.Leu237Pro
+4200580	C	T	coscolla2021	5.1.1	L511	L511	4200580	tyrA_Rv3754	C	T	missense_variant	p.Pro54Ser
+4203242	G	A	coscolla2021	5.1.5	L515	L515	4203242	proW_Rv3757c	G	A	missense_variant	p.Arg20Cys
+4209894	G	T	coscolla2021	5.1.3	L513	L513	4209894	tcrY_Rv3764c	G	T	synonymous_variant	p.Arg372Arg
+4214841	G	A	coscolla2021	5.2	L52	L52	4214841	Rv3769_Rv3769	G	A	missense_variant	p.Gly76Glu
+4219700	G	A	coscolla2021	6.1.3	L613	L613	4219700	lipE_Rv3775	G	A	missense_variant	p.Gly6Ser
+4237467	C	G	coscolla2021	6.2.2	L622	L622	4237467	dprE2_Rv3791	C	G	missense_variant	p.Asp101Glu
+4251173	G	A	coscolla2021	6.2.2	L622	L622	4251173	fadE35_Rv3797	G	A	missense_variant	p.Gly30Glu
+4262494	C	T	coscolla2021	6.1.3	L613	L613	4262494	fadD32_Rv3801c	C	T	synonymous_variant	p.Leu191Leu
+4263527	G	A	coscolla2021	6.3.2	L632	L632	4263527	clp6_Rv3802c	G	A	missense_variant	p.Pro280Leu
+4266226	T	C	coscolla2021	6.1.1	L611	L611	4266226	fbpA_Rv3804c	T	C	missense_variant	p.Thr145Ala
+4268186	G	A	coscolla2021	6.3.2	L632	L632	4268186	aftB_Rv3805c	G	A	synonymous_variant	p.Gly217Gly
+4270363	C	T	coscolla2021	5.1.5	L515	L515	4270363	intergenic_region	C	T	NA	
+4286621	G	C	coscolla2021	5.1.1	L511	L511	4286621	Rv3821_Rv3821	G	C	missense_variant	p.Asp217His
+4304136	G	A	coscolla2021	6.3.1	L631	L631	4304136	Rv3829c_Rv3829c	G	A	synonymous_variant	p.Ala291Ala
+4313202	C	T	coscolla2021	5.2	L52	L52	4313202	Rv3839_Rv3839	C	T	synonymous_variant	p.Asp146Asp
+4314927	C	T	coscolla2021	6.3.2	L632	L632	4314927	glpQ1_Rv3842c	C	T	synonymous_variant	p.Ala212Ala
+4321126	G	A	coscolla2021	6.1.3	L613	L613	4321126	sodA_Rv3846	G	A	synonymous_variant	p.Gln141Gln
+4324633	A	G	coscolla2021	5.1.2	L512	L512	4324633	Rv3850_Rv3850	A	G	missense_variant	p.Ile207Val
+4332755	C	T	coscolla2021	6.2.3	L623	L623	4332755	gltB_Rv3859c	C	T	synonymous_variant	p.Thr1109Thr
+4333831	A	G	coscolla2021	5.1.5	L515	L515	4333831	gltB_Rv3859c	A	G	missense_variant	p.Phe751Leu
+4336740	C	G	coscolla2021	5.3	L53	L53	4336740	intergenic_region	C	G	NA	
+4341508	C	T	coscolla2021	6.2.2	L622	L622	4341508	intergenic_region	C	T	NA	
+4344210	T	G	coscolla2021	5.2	L52	L52	4344210	eccA1_Rv3868	T	G	synonymous_variant	p.Val299Val
+4350657	G	A	coscolla2021	5.1.1	L511	L511	4350657	intergenic_region	G	A	NA	
+4355124	G	A	coscolla2021	6.2.3	L623	L623	4355124	eccD1_Rv3877	G	A	missense_variant	p.Ala40Thr
+4356371	G	C	coscolla2021	5.3	L53	L53	4356371	eccD1_Rv3877	G	C	synonymous_variant	p.Thr455Thr
+4365852	C	G	coscolla2021	5.2	L52	L52	4365852	eccA2_Rv3884c	C	G	synonymous_variant	p.Leu329Leu
+4374139	G	A	coscolla2021	6.2.2	L622	L622	4374139	esxD_Rv3891c	G	A	synonymous_variant	p.Gly78Gly
+4380816	G	A	coscolla2021	5.2	L52	L52	4380816	eccB2_Rv3895c	G	A	synonymous_variant	p.Ser375Ser
+4382534	T	C	coscolla2021	5.1.4	L514	L514	4382534	Rv3896c_Rv3896c	T	C	synonymous_variant	p.Ala106Ala
+4384943	G	A	coscolla2021	5.3	L53	L53	4384943	Rv3899c_Rv3899c	G	A	missense_variant	p.Ala146Val
+4389017	G	A	coscolla2021	6.3.1	L631	L631	4389017	Rv3903c_Rv3903c	G	A	synonymous_variant	p.Gly472Gly
+4390952	T	C	coscolla2021	5.2	L52	L52	4390952	esxF_Rv3905c	T	C	missense_variant	p.His27Arg
+4392294	G	A	coscolla2021	5.1.5	L515	L515	4392294	pcnA_Rv3907c	G	A	synonymous_variant	p.Asp260Asp
+4401755	G	A	coscolla2021	6.2.2	L622	L622	4401755	trxB2_Rv3913	G	A	missense_variant	p.Ala10Thr
